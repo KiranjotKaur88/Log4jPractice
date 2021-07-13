@@ -1,0 +1,12 @@
+2021-07-13 15:53:39,753  INFO Log4jDemoPractice [main] This is the info message
+2021-07-13 15:53:39,769  DEBUG Log4jDemoPractice [main] This is the debug message
+2021-07-13 15:53:39,769  ERROR Log4jDemoPractice [main] This is the error message
+2021-07-13 15:53:39,769  WARN Log4jDemoPractice [main] This is the warning message
+2021-07-13 15:53:39,769  FATAL Log4jDemoPractice [main] This is the fatal message
+2021-07-13 15:53:39,769  TRACE Log4jDemoPractice [main] This is the trace message at: time 1626206019769
+13:07:2021:212 INFO Log4jDemoPractice [main] This is the info message
+13:07:2021:227 DEBUG Log4jDemoPractice [main] This is the debug message
+13:07:2021:227 ERROR Log4jDemoPractice [main] This is the error message
+13:07:2021:227 WARN Log4jDemoPractice [main] This is the warning message
+13:07:2021:227 FATAL Log4jDemoPractice [main] This is the fatal message
+13:07:2021:227 TRACE Log4jDemoPractice [main] This is the trace message at: time 1626214767227

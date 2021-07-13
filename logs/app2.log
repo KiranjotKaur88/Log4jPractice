@@ -1,0 +1,6 @@
+13:07:2021:906 INFO Log4jDemoPractice [main] This is the info message
+13:07:2021:906 DEBUG Log4jDemoPractice [main] This is the debug message
+13:07:2021:906 ERROR Log4jDemoPractice [main] This is the error message
+13:07:2021:906 WARN Log4jDemoPractice [main] This is the warning message
+13:07:2021:906 FATAL Log4jDemoPractice [main] This is the fatal message
+13:07:2021:906 TRACE Log4jDemoPractice [main] This is the trace message at: time 1626216114906
